@@ -33,12 +33,12 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.app.Activity;
 
-import com.android.grafika.gles.Drawable2d;
-import com.android.grafika.gles.EglCore;
-import com.android.grafika.gles.GlUtil;
-import com.android.grafika.gles.Sprite2d;
-import com.android.grafika.gles.Texture2dProgram;
-import com.android.grafika.gles.WindowSurface;
+import com.android.grafika.lib.gles.Drawable2d;
+import com.android.grafika.lib.gles.EglCore;
+import com.android.grafika.lib.gles.GlUtil;
+import com.android.grafika.lib.gles.Sprite2d;
+import com.android.grafika.lib.gles.Texture2dProgram;
+import com.android.grafika.lib.gles.WindowSurface;
 
 import java.io.IOException;
 import java.lang.ref.WeakReference;

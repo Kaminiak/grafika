@@ -31,8 +31,8 @@ import android.graphics.PixelFormat;
 import android.graphics.PorterDuff;
 import android.os.Trace;
 
-import com.android.grafika.gles.EglCore;
-import com.android.grafika.gles.WindowSurface;
+import com.android.grafika.lib.gles.EglCore;
+import com.android.grafika.lib.gles.WindowSurface;
 
 /**
  * Exercises some less-commonly-used aspects of SurfaceView.  In particular:

@@ -24,10 +24,10 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.android.grafika.gles.EglCore;
-import com.android.grafika.gles.FullFrameRect;
-import com.android.grafika.gles.Texture2dProgram;
-import com.android.grafika.gles.WindowSurface;
+import com.android.grafika.lib.gles.EglCore;
+import com.android.grafika.lib.gles.FullFrameRect;
+import com.android.grafika.lib.gles.Texture2dProgram;
+import com.android.grafika.lib.gles.WindowSurface;
 
 import java.io.File;
 import java.io.IOException;

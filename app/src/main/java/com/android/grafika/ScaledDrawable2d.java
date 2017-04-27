@@ -15,9 +15,7 @@
  */
 package com.android.grafika;
 
-import android.util.Log;
-
-import com.android.grafika.gles.Drawable2d;
+import com.android.grafika.lib.gles.Drawable2d;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
